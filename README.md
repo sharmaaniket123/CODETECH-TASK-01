@@ -1,6 +1,14 @@
 # CODETECH-TASK-01
 # Git Merge Conflict Demo (CODTECH Internship)
 
+*COMPANY* : CODTECH IT SOLUTIONS
+*NAME* : ANIKET SHARMA
+*INTERN ID* : CT04DL985
+*DOMAIN* : DEVOPS
+*DURATION* : 4 WEEKS
+*MENTOR* : NEELA SANTOSH
+
+
 ## Summary
 This project demonstrates how to:
 - Set up a GitHub repository
